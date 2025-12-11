@@ -1,0 +1,5 @@
+{
+  "name": "DPTN Robot Visualizer",
+  "description": "An interactive dashboard for the Dialectical Praxi-Transformer Net (DPTN). Visualize how robotic praxis (action) emerges from the contradiction between material content (object) and social context (environment), featuring real-time inference simulation and Gemini-powered dialectical analysis.",
+  "requestFramePermissions": []
+}
